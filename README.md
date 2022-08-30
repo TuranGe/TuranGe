@@ -16,7 +16,7 @@
    <a href="https://steamcommunity.com/id/TuranGe1/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://www.reddit.com/user/TuranGe1" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href=https://open.spotify.com/user/msek3s2qpxfsdmbd12okzkfug?si=6d385205f3644390" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/nfurkanakpinar/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/nfurkan.akpinar/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
 <img src="https://count.getloli.com/get/@TuranGe?theme=moebooru" alt="TuranGe" />
 </p>
