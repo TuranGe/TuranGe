@@ -1,12 +1,4 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben TuranGe 👋</h2>
-
-
-
-<div align="center">
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L15V33S)
-
-</div>
 <h3>Hesaplarım:</h3>
 <p align="center">
    <a href="https://discord.com/users/476747649060569119" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
