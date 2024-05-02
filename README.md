@@ -1,5 +1,6 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi, I'm TuranGe 👋</h2>
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Jr.+Full-Stack+developer+with+several+years+of+experience.+🖥️" alt="TuranGe" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/476747649060569119?hideActivity=whenNotUsed)](https://discord.com/users/476747649060569119)
 <h3>Accounts:</h3>
 <p align="center">
    <a href="https://discord.com/users/476747649060569119" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
