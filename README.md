@@ -1,6 +1,10 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi, I'm TuranGe 👋</h2>
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Jr.+Full-Stack+developer+with+several+years+of+experience." alt="TuranGe" />
 
+<p align="center">
+<img src="https://count.getloli.com/get/@TuranGe?theme=moebooru" alt="TuranGe" />
+</p>
+
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=TuranGe&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
